@@ -1,0 +1,14 @@
+//Rodando seu primeiro algoritmo
+
+#include <stdio.h>
+
+int main(){
+
+
+    printf("Ola Mundo");
+    return 0;
+
+}
+
+//output: Ola Mundo
+
